@@ -22,4 +22,4 @@ Projeto academico da Dio para por em pratica o aprendizado utilizando - se de:
  
     # Mensagem a ser exibida de acordo com classificação
 
-    "O herói de nome **{nome}** está no nível de **{nivel}**
+    "O herói de nome **{nome}** está no nível de **{nivel}**"
